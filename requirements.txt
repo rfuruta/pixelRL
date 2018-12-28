@@ -1,0 +1,5 @@
+numpy==1.15.4
+opencv-python==3.4.3.18
+chainer==5.0.0
+cupy==5.0.0
+chainerrl==0.5.0
