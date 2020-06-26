@@ -58,4 +58,19 @@ If you use our code in your research, please cite our paper.
     booktitle={AAAI Conference on Artificial Intelligence (AAAI)},
     year={2019}
 }
+@article{furuta2019pixelrl,
+  title={PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing},
+  author={Ryosuke Furuta and Naoto Inoue and Toshihiko Yamasaki},
+  journal={IEEE Transactions on Multimedia (TMM)},
+  year={2019}
+}
 ```
+
+## Update on June 26, 2020
+Sample codes for image restoration and color enhancement are available on the links below.
+
+Image restoration: https://1drv.ms/u/s!Ar-9gQOTm4zvj71tUM4y_23NV3zUZw <br>
+Note that only BSD68 dataset is included. To reproduce our results, please download and add [Waterloo exploration database](https://ece.uwaterloo.ca/~k29ma/exploration/) and ILSVRC2015 val set to the list of training images.
+
+Color enhancement: https://1drv.ms/u/s!Ar-9gQOTm4zvj71scx63dJ80aH59xg <br>
+To run this code, please download the color enhamcement dataset from [here](https://github.com/stephenyan1231/dl-image-enhance).
