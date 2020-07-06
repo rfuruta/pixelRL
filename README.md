@@ -1,5 +1,5 @@
 # Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing
-This is the official implementation of the [paper](https://www.hal.t.u-tokyo.ac.jp/~furuta/pub/fcn_rl/fcn_rl.html) in AAAI2019.
+This is the official implementation of the [paper](https://www.hal.t.u-tokyo.ac.jp/~furuta/pub/fcn_rl/fcn_rl.html) in AAAI2019 and TMM2020.
 We provide the sample codes for training and testing and pretrained models on Gaussian denoising.
 
 ## Requirements
@@ -58,11 +58,14 @@ If you use our code in your research, please cite our paper.
     booktitle={AAAI Conference on Artificial Intelligence (AAAI)},
     year={2019}
 }
-@article{furuta2019pixelrl,
-  title={PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing},
-  author={Ryosuke Furuta and Naoto Inoue and Toshihiko Yamasaki},
-  journal={IEEE Transactions on Multimedia (TMM)},
-  year={2019}
+@article{furuta2020pixelrl,
+    title={PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing},
+    author={Ryosuke Furuta and Naoto Inoue and Toshihiko Yamasaki},
+    journal={IEEE Transactions on Multimedia (TMM)},
+    year={2020},
+    volume={22},
+    number={7},
+    pages={1704-1719}
 }
 ```
 
