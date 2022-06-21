@@ -1,4 +1,4 @@
-numpy==1.15.4
+numpy==1.22.0
 opencv-python==3.4.3.18
 chainer==5.0.0
 cupy==5.0.0
